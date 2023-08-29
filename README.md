@@ -1,6 +1,6 @@
 # cypress-ui-ss
 
-This repository contains automated UI tests for Symphony Solutions using Cypress, Cucumber and multiple-reports.
+This repository contains automated UI tests for SS using Cypress, Cucumber and multiple-reports.
 
 ## Installation
 
